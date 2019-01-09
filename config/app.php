@@ -225,5 +225,5 @@ return [
         'View' => Illuminate\Support\Facades\View::class,
 
     ],
-
+    'locale' => 'zh-CN',
 ];
